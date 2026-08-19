@@ -28,6 +28,7 @@ https://www.kaggle.com/datasets/batthulavinay/indian-food-nutrition
 https://arxiv.org/html/2509.06006v1
 
 architecture:
+
     -nutrition tracker
         -use segmentation (YOLO seg) and classification to isolate each food
         -MiDas depth estimation with reference object
